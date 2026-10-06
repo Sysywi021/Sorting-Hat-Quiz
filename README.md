@@ -15,7 +15,7 @@ Sorting Hat is a Python project that asks users questions using input and output
 - Relational operators
 - Conditional statements
 
-  ｡ﾟ•┈୨♡୧┈• ｡ﾟ
+｡ﾟ•┈୨♡୧┈• ｡ﾟ
 # How to run
 1) Download this repository
 2) Ensure Python 3 is installed
